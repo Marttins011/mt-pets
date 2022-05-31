@@ -55,3 +55,6 @@ Add to qb-target/init.lua
 # MLO LINK
 
 https://www.gta5-mods.com/maps/mlo-pet-shop
+
+# Original script:
+https://github.com/Lionh34rt/lion-companions
